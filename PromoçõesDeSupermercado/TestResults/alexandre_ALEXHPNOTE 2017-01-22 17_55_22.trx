@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2345c350-2831-4fe0-ac2e-a368c2de893c" name="alexandre@ALEXHPNOTE 2017-01-22 17:55:22" runUser="ALEXHPNOTE\alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="78bd24b6-0b4f-4a41-aa5f-06945cfaee46">
+    <Deployment runDeploymentRoot="alexandre_ALEXHPNOTE 2017-01-22 17_55_22">
+      <DeploymentItem filename="C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-01-22T17:55:22.6928922-03:00" queuing="2017-01-22T17:55:22.8087926-03:00" start="2017-01-22T17:55:22.8556665-03:00" finish="2017-01-22T17:55:23.1252226-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetTotal_1" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4">
+      <Execution id="f22d4770-b33a-4838-909c-a4a1415878dc" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.VendaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotal_1" />
+    </UnitTest>
+    <UnitTest name="TestGetTotal_2" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="1fe84d59-ca4c-35db-fa1c-384dc53d69a7">
+      <Execution id="62c41f08-1c2a-4e78-a2b2-9c6f8b2d2953" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.VendaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotal_2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1fe84d59-ca4c-35db-fa1c-384dc53d69a7" executionId="62c41f08-1c2a-4e78-a2b2-9c6f8b2d2953" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4" executionId="f22d4770-b33a-4838-909c-a4a1415878dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="62c41f08-1c2a-4e78-a2b2-9c6f8b2d2953" testId="1fe84d59-ca4c-35db-fa1c-384dc53d69a7" testName="TestGetTotal_2" computerName="ALEXHPNOTE" duration="00:00:00.0313989" startTime="2017-01-22T17:55:22.8556665-03:00" endTime="2017-01-22T17:55:23.0939669-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62c41f08-1c2a-4e78-a2b2-9c6f8b2d2953">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected a difference no greater than &lt;0,0001&gt; between expected value &lt;16,4&gt; and actual value &lt;18,7&gt;. </Message>
+          <StackTrace>   em supermercado.VendaTest.TestGetTotal_2() na C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\VendaTest.cs:linha 44
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f22d4770-b33a-4838-909c-a4a1415878dc" testId="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4" testName="TestGetTotal_1" computerName="ALEXHPNOTE" duration="00:00:00.0004499" startTime="2017-01-22T17:55:23.0939669-03:00" endTime="2017-01-22T17:55:23.0939669-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f22d4770-b33a-4838-909c-a4a1415878dc">
+    </UnitTestResult>
+  </Results>
+</TestRun>

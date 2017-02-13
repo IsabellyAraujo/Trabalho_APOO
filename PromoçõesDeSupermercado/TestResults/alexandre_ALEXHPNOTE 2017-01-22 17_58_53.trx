@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="47b8f85b-b1c8-4327-8848-0618595b6fce" name="alexandre@ALEXHPNOTE 2017-01-22 17:58:53" runUser="ALEXHPNOTE\alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="ac53cd36-7ec9-4c6c-9658-5e805c2666fd">
+    <Deployment runDeploymentRoot="alexandre_ALEXHPNOTE 2017-01-22 17_58_53">
+      <DeploymentItem filename="C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-01-22T17:58:53.5170535-03:00" queuing="2017-01-22T17:58:53.6015800-03:00" start="2017-01-22T17:58:53.6172040-03:00" finish="2017-01-22T17:58:53.9775841-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetTotal_1" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4">
+      <Execution id="843ba37c-279b-4d2a-98dd-f8a294e2bd7a" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.VendaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotal_1" />
+    </UnitTest>
+    <UnitTest name="TestEncerrarVenda_1" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="acbc354c-c5cd-8467-8395-7090021f5c50">
+      <Execution id="3784d420-a2ae-4fd2-9d78-4effa8c89ced" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.CaixaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEncerrarVenda_1" />
+    </UnitTest>
+    <UnitTest name="TestAbrirVenda_1" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="6bbfdeea-bde6-a686-be99-da0c8ae39ed6">
+      <Execution id="8277ce89-4fb9-4977-81df-e898b154f3b1" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.CaixaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAbrirVenda_1" />
+    </UnitTest>
+    <UnitTest name="TestGetTotal_2" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="1fe84d59-ca4c-35db-fa1c-384dc53d69a7">
+      <Execution id="3f76758d-e50b-4dd8-ae6c-5ff1bfc56cb1" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.VendaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetTotal_2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1fe84d59-ca4c-35db-fa1c-384dc53d69a7" executionId="3f76758d-e50b-4dd8-ae6c-5ff1bfc56cb1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4" executionId="843ba37c-279b-4d2a-98dd-f8a294e2bd7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6bbfdeea-bde6-a686-be99-da0c8ae39ed6" executionId="8277ce89-4fb9-4977-81df-e898b154f3b1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="acbc354c-c5cd-8467-8395-7090021f5c50" executionId="3784d420-a2ae-4fd2-9d78-4effa8c89ced" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3f76758d-e50b-4dd8-ae6c-5ff1bfc56cb1" testId="1fe84d59-ca4c-35db-fa1c-384dc53d69a7" testName="TestGetTotal_2" computerName="ALEXHPNOTE" duration="00:00:00.0195260" startTime="2017-01-22T17:58:53.6172040-03:00" endTime="2017-01-22T17:58:53.8777801-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f76758d-e50b-4dd8-ae6c-5ff1bfc56cb1">
+    </UnitTestResult>
+    <UnitTestResult executionId="843ba37c-279b-4d2a-98dd-f8a294e2bd7a" testId="53b25a61-5cd0-d88b-d4e1-796a9a8a4ac4" testName="TestGetTotal_1" computerName="ALEXHPNOTE" duration="00:00:00.0003152" startTime="2017-01-22T17:58:53.8777801-03:00" endTime="2017-01-22T17:58:53.8777801-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="843ba37c-279b-4d2a-98dd-f8a294e2bd7a">
+    </UnitTestResult>
+    <UnitTestResult executionId="8277ce89-4fb9-4977-81df-e898b154f3b1" testId="6bbfdeea-bde6-a686-be99-da0c8ae39ed6" testName="TestAbrirVenda_1" computerName="ALEXHPNOTE" duration="00:00:00.0023667" startTime="2017-01-22T17:58:53.8934057-03:00" endTime="2017-01-22T17:58:53.8934057-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8277ce89-4fb9-4977-81df-e898b154f3b1">
+    </UnitTestResult>
+    <UnitTestResult executionId="3784d420-a2ae-4fd2-9d78-4effa8c89ced" testId="acbc354c-c5cd-8467-8395-7090021f5c50" testName="TestEncerrarVenda_1" computerName="ALEXHPNOTE" duration="00:00:00.0601611" startTime="2017-01-22T17:58:53.8934057-03:00" endTime="2017-01-22T17:58:53.9619602-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3784d420-a2ae-4fd2-9d78-4effa8c89ced">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method supermercado.CaixaTest.TestEncerrarVenda_1 threw exception: 
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.</Message>
+          <StackTrace>    em supermercado.Caixa.EncerrarVenda() na C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\Dominio.cs:linha 96
+   em supermercado.CaixaTest.TestEncerrarVenda_1() na C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\CaixaTest.cs:linha 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

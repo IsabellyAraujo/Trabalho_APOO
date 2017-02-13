@@ -1,0 +1,24 @@
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.csprojResolveAssemblyReference.cache
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesTest.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesTest.pdb
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesDeSupermercado.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesDeSupermercado.pdb
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.pdb
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Castle.Core.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Moq.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Castle.Core.xml
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Moq.xml
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesTest.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesTest.pdb
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Castle.Core.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Moq.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesDeSupermercado.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\PromoçõesDeSupermercado.pdb
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Castle.Core.xml
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\bin\Debug\Moq.xml
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesTest\obj\Debug\PromoçõesTest.pdb

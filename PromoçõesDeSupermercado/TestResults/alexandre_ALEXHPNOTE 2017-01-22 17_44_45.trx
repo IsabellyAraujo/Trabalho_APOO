@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c3915faf-dc84-4631-a0d0-26a54182382c" name="alexandre@ALEXHPNOTE 2017-01-22 17:44:45" runUser="ALEXHPNOTE\alexandre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b55b4054-499a-49a2-a962-0c6916e0282d">
+    <Deployment runDeploymentRoot="alexandre_ALEXHPNOTE 2017-01-22 17_44_45">
+      <DeploymentItem filename="C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-01-22T17:44:45.2050272-03:00" queuing="2017-01-22T17:44:45.3675052-03:00" start="2017-01-22T17:44:45.3871372-03:00" finish="2017-01-22T17:44:45.8368441-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAbrirVenda_1" storage="c:\users\alexandre\documents\alexandre\cefet\apoo - informática para internet\trabalhos\promoçõesdesupermercado\promoçõestest\bin\debug\promoçõestest.dll" id="6bbfdeea-bde6-a686-be99-da0c8ae39ed6">
+      <Execution id="58d412f7-8bad-4f82-96a2-4c043511793c" />
+      <TestMethod codeBase="C:/Users/alexandre/Documents/Alexandre/CEFET/APOO - Informática para Internet/trabalhos/PromoçõesDeSupermercado/PromoçõesTest/bin/Debug/PromoçõesTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="supermercado.CaixaTest, PromoçõesTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAbrirVenda_1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6bbfdeea-bde6-a686-be99-da0c8ae39ed6" executionId="58d412f7-8bad-4f82-96a2-4c043511793c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="58d412f7-8bad-4f82-96a2-4c043511793c" testId="6bbfdeea-bde6-a686-be99-da0c8ae39ed6" testName="TestAbrirVenda_1" computerName="ALEXHPNOTE" duration="00:00:00.1378100" startTime="2017-01-22T17:44:45.3896389-03:00" endTime="2017-01-22T17:44:45.7681793-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58d412f7-8bad-4f82-96a2-4c043511793c">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method supermercado.CaixaTest.TestAbrirVenda_1 did not throw expected exception System.InvalidOperationException.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

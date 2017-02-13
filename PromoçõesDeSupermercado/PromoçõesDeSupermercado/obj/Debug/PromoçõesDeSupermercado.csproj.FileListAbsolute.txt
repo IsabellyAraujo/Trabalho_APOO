@@ -1,0 +1,10 @@
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.pdb
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.dll
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.pdb
+C:\Users\alexandre\Documents\Alexandre\CEFET\APOO - Informática para Internet\trabalhos\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesDeSupermercado\bin\Debug\PromoçõesDeSupermercado.pdb
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.dll
+C:\Users\aluno\Downloads\PromoçõesDeSupermercado\PromoçõesDeSupermercado\obj\Debug\PromoçõesDeSupermercado.pdb
