@@ -77,7 +77,6 @@ namespace supermercado
             return item;
         }
         
-        //precisa mudar
         public double GetTotal()
         {
             double total = 0.0;
@@ -101,15 +100,9 @@ namespace supermercado
                 throw new InvalidOperationException("Já existe uma venda em curso");
             vendaCorrente = new Venda(DateTime.Now);
         }
-        //precisa mudar
+        
         public double CalcularDesconto()
         {
-            ItemVenda venda_item = new ItemVenda();
-
-            if(){
-            
-            }
-            //TODO
             return 0.0;
         }
 
